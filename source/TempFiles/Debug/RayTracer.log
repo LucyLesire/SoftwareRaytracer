@@ -1,0 +1,36 @@
+﻿  BaseLight.cpp
+  BaseMaterial.cpp
+  DirectionalLight.cpp
+  ECamera.cpp
+  ERenderer.cpp
+  ETimer.cpp
+  LambertMaterial.cpp
+D:\DAE\Second Year\Graphics_Programming_1\GP1_2021_SRT_Lucy_Lesire_NL\SOURCE\source\EBRDF.h(24,50): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+  LightManager.cpp
+  main.cpp
+  MaterialManager.cpp
+  Object.cpp
+  Parser.cpp
+  PBRMaterial.cpp
+D:\DAE\Second Year\Graphics_Programming_1\GP1_2021_SRT_Lucy_Lesire_NL\SOURCE\source\EBRDF.h(24,50): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+  PhongMaterial.cpp
+D:\DAE\Second Year\Graphics_Programming_1\GP1_2021_SRT_Lucy_Lesire_NL\SOURCE\source\EBRDF.h(24,50): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+  Plane.cpp
+  PointLight.cpp
+  Scene.cpp
+  SceneManager.cpp
+  Sphere.cpp
+  Triangle.cpp
+  Generating Code...
+  Compiling...
+  TriangleMesh.cpp
+  Generating Code...
+  RayTracer.vcxproj -> D:\DAE\Second Year\Graphics_Programming_1\GP1_2021_SRT_Lucy_Lesire_NL\SOURCE\bin\Debug\RayTracer.exe
+  D:\DAE\Second Year\Graphics_Programming_1\GP1_2021_SRT_Lucy_Lesire_NL\SOURCE\source\..\lib\sdl2-2.0.9\x64\SDL2.dll
+  1 File(s) copied
+  D:\DAE\Second Year\Graphics_Programming_1\GP1_2021_SRT_Lucy_Lesire_NL\SOURCE\source\..\lib\vld\x64\vld_x64.dll
+  1 File(s) copied
+  D:\DAE\Second Year\Graphics_Programming_1\GP1_2021_SRT_Lucy_Lesire_NL\SOURCE\source\..\lib\vld\x64\dbghelp.dll
+  1 File(s) copied
+  D:\DAE\Second Year\Graphics_Programming_1\GP1_2021_SRT_Lucy_Lesire_NL\SOURCE\source\..\lib\vld\x64\Microsoft.DTfW.DHL.manifest
+  1 File(s) copied
